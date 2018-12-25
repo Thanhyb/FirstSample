@@ -1,5 +1,10 @@
+<<<<<<< HEAD
 - Bai mo dau hoc ngo phet, can tim hieu them
 - Kiem tra du lieu
 - O la la
 - Thay doi
 
+=======
+Bai mo dau hoc ngo phet, can tim hieu them
+Le Van Thanh .......
+>>>>>>> parent of f8f724f... Add them
