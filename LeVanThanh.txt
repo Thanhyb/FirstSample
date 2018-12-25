@@ -1,5 +1,5 @@
-<<<<<<< HEAD
 - Bai mo dau hoc ngo phet, can tim hieu them
 - Kiem tra du lieu
 - O la la
+- Thay doi
 
