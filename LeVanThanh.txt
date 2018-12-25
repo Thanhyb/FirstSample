@@ -2,4 +2,8 @@
 - Kiem tra du lieu
 - O la la
 - Thay doi
+<<<<<<< HEAD
 - Them moi
+=======
+
+>>>>>>> parent of 2638f4c... Ok
